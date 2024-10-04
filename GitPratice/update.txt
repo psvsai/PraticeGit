@@ -1,0 +1,7 @@
+Today 04-10-2024
+Worked on git commands , Which are useful for the now , which are mandatory upto now.
+There are many more to learn, Without pratice u r not going to finish the ccourse
+mainly about JAVA, yes ,iknow java is not that easy language to learn or code,by pratice and learning it daily can boot  u lot of confidence.
+About Spring boot 
+Simple words about spring boot,spring boot is a backend which we can develop the website,by using frameworks.\
+ 
