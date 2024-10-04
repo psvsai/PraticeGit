@@ -2,8 +2,11 @@ Here,are some git commands which its helpful while we are using git frequently.
 At first we have to create a Repo in github,later create a file in comp and open VS Code
 git init: reinitialize an existing one
 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲: Clone a remote repository.
-cd : Change directory
-git remote -v : To check the origin or check the repository
-git branch -M main : To create a branch (Main)
-git branch : To find which branch r u in 
-git checkout barnch_name :- To checkout the branch
+cd : Change directory.
+git remote -v : To check the origin or check the repository.
+git branch -M main : To create a branch (Main).
+git branch : To find which branch r u in .
+git checkout barnch_name :- To checkout the branch.
+git add . :- Add file contents to the index
+git commit -m ""𝗺𝗲𝘀𝘀𝗮𝗴𝗲"" :- To Commit all tracked changes with a message.(use after git add .) 
+git log :- View commit done upto date.
