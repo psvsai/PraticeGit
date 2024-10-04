@@ -1,0 +1,6 @@
+Here,are some git commands which its helpful while we are using git frequently.
+At first we have to create a Repo in github,later create a file in comp and open VS Code
+git init: reinitialize an existing one
+𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲: Clone a remote repository.
+cd : Change directory
+git remote -v : Help to check the origin or check the repository
