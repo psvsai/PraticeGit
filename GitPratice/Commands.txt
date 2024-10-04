@@ -10,3 +10,4 @@ git checkout barnch_name :- To checkout the branch.
 git add . :- Add file contents to the index
 git commit -m ""𝗺𝗲𝘀𝘀𝗮𝗴𝗲"" :- To Commit all tracked changes with a message.(use after git add .) 
 git log :- View commit done upto date.
+git push -u origin main :- to push the code or data into github
