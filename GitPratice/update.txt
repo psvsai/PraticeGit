@@ -14,4 +14,3 @@ mainly in spring boot there are few components , there are
 here,when we want add configuration for login page
 5) config is a component
 and by using database we can create table by using sql, mongodb
- 
